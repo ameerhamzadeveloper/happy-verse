@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "887839980213",
+    "project_id": "hapivers",
+    "storage_bucket": "hapivers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887839980213:android:f58accf67d8e191babdcfc",
+        "android_client_info": {
+          "package_name": "com.app.hapiverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887839980213-bn8q4bs62apfo7ct1hqh4gld2ha6ehio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYd_91Te-wisMe1y3mOD0iAD0rgXHce50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887839980213-bn8q4bs62apfo7ct1hqh4gld2ha6ehio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887839980213-07h18aakq2q2ms7ci7s8ab045ld3ndf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.happiverse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887839980213:android:bb1d4b12dcbff4d6abdcfc",
+        "android_client_info": {
+          "package_name": "com.app.happiibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887839980213-bn8q4bs62apfo7ct1hqh4gld2ha6ehio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYd_91Te-wisMe1y3mOD0iAD0rgXHce50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887839980213-bn8q4bs62apfo7ct1hqh4gld2ha6ehio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887839980213-07h18aakq2q2ms7ci7s8ab045ld3ndf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.happiverse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
